@@ -140,7 +140,7 @@ nav {
 
 @keyframes opening {
     from {
-        opacity: ;
+        opacity: 0;
     }
     to {
         opacity: 1;
